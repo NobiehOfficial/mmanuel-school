@@ -1,7 +1,7 @@
 // config.js — main site settings
 const SITE_CONFIG = {
   schoolName: "Mmanuel Junior School 2012",
-  shortName: "Mmanuel Junior School",
+  shortName: "MJS",
   tagline: "Care. Respect. Responsibility.",
   description: "A community junior school in Gulu, Uganda, nurturing every child since 2012.",
 
@@ -22,7 +22,7 @@ const SITE_CONFIG = {
     phone: "+256 772 954 511",
     phoneHref: "tel:+256772954511",
     whatsapp: "256772954511",
-    email: "mmanueljgsulu@gmail.com",
+    email: "mmanueljsgulu@gmail.com",
     address: {
       poBox: "P.O. Box 1285",
       city: "Gulu",
